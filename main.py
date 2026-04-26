@@ -1,4 +1,6 @@
 import random
+import os
+os.system("title Kernel Bit Life")
 ageing = 0
 health = 100
 neutral_events = [
